@@ -2,7 +2,7 @@
 
 ## DEPLOY 
 
-https://3d-text-jzv6.vercel.app/
+[3D Text](https://3d-text-jzv6.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
